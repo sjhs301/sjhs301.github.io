@@ -29,10 +29,7 @@ body {
   padding: 30px 60px;
 }
 .card img {
-  background-color: #dddfe6;
-  height: 120px;
   width: 120px;
-  border-radius: 50%;
   margin: auto auto 15px;
   display: block;
 }
